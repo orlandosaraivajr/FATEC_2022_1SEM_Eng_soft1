@@ -3,3 +3,11 @@ https://www.tjsp.jus.br/download/SeloDigital/docs/EspecificacaoDeRequisitosSelos
 https://www.omg.org/spec/UML/2.5.1/PDF
 
 
+GIT e Github
+============
+
+https://youtu.be/6Czd1Yetaac
+
+https://git-scm.com/docs/git/pt_BR
+
+https://dev.to/mollynem/git-github--workflow-fundamentals-5496
